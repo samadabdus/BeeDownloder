@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "140154577460",
+    "firebase_url": "https://bee-downloader-56e4f.firebaseio.com",
+    "project_id": "bee-downloader-56e4f",
+    "storage_bucket": "bee-downloader-56e4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140154577460:android:1a2db8323c8f43c275e061",
+        "android_client_info": {
+          "package_name": "com.shootbee.tamada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140154577460-b8jvre6g98br8sl2fifmo73g7hqtqomb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shootbee.tamada",
+            "certificate_hash": "e1e98a46dd0a9399b538f8d55cb86a60df529ed4"
+          }
+        },
+        {
+          "client_id": "140154577460-btdascbo2thv429qttn6i6o5n39tumm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs2YYKvnTiNqc0dzf8JNhNmfwEF-K-bwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140154577460-btdascbo2thv429qttn6i6o5n39tumm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
