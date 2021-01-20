@@ -24,7 +24,7 @@
         android:layout_below="@id/imgview_backArrow"
         android:background="@color/black"
         android:layout_marginTop="10dp"
-        android:src="@drawable/sad_emoji" />
+        android:src="@drawable/sad_emoji"/>
 
     <ImageView
         android:id="@+id/imgview_shareVideo"
